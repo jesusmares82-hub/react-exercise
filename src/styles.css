@@ -1,0 +1,52 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  text-align: center;
+  font-size: 20px;
+}
+
+.container {
+  width: 95%;
+  margin-left: auto;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Profile {
+  background-color: #51c2d5;
+  color: #170b8a;
+  padding: 30px 30px;
+}
+
+.Interests {
+  background-color: #1aac93;
+  color: #1f3a37;
+  padding: 30px 30px;
+}
+
+.Expectations {
+  background-color: #fdb059;
+  color: #c96b00;
+  padding: 30px 30px;
+}
+
+.Learn {
+  background-color: #f8dc81;
+  color: #b99621;
+  padding: 30px 30px;
+}
+
+.Hobbies {
+  background-color: #9dad7f;
+  color: #516925;
+  padding: 30px 30px;
+}
